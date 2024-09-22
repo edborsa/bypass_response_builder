@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "http://vmlinarchuat1.loomissayles.com:4060/api/user/gsimonds"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\n  \"active\": true\n}",
+      "headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "*",
+        "access-control-expose-headers": "",
+        "cache-control": "max-age=0, private, must-revalidate",
+        "content-length": "6081",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Sun, 22 Sep 2024 13:56:40 GMT",
+        "server": "Cowboy",
+        "x-request-id": "tkjf5ngfmsekqr4239ko4bikhs21ufkc"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

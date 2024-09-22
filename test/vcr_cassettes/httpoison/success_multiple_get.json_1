@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "http://vmlinarchuat1.loomissayles.com:4060/api/user/eborsa"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\n  \"active\": true,\n  \"email\": \"EBorsa@loomissayles.com\",\n  \"employeeid\": 912293,\n  \"first_name\": \"Ed\",\n  \"groups\": [\n    {\n      \"email\": \"Architecture_Team@LoomisSayles.com\",\n      \"name\": \"architectureteam\",\n      \"uid\": \"Architecture Team\"\n    },\n    {\n      \"email\": \"ArchitectureServerTeam@loomissayles.com\",\n      \"name\": \"architectureserverteam\",\n      \"uid\": \"Architecture Server Team\"\n    },\n    {\n      \"email\": \"NotesUsers1@loomissayles.com\",\n      \"name\": \"notesusers1\",\n      \"uid\": \"NotesUsers1\"\n    },\n    {\n      \"email\": \"Loomis_Sayles_Technology_Contractors@loomissayles.com\",\n      \"name\": \"loomissaylestechnologycontractors\",\n      \"uid\": \"Loomis Sayles Technology Contractors\"\n    },\n    {\n      \"email\": \"Boston_1@loomissayles.com\",\n      \"name\": \"boston1\",\n      \"uid\": \"Boston 1\"\n    },\n    {\n      \"email\": \"Ast_talk@loomissayles.com\",\n      \"name\": \"ast_talk\",\n      \"uid\": \"ast_talk\"\n    },\n    {\n      \"email\": \"Top_Brokers_Help@loomissayles.com\",\n      \"name\": \"topbrokershelp\",\n      \"uid\": \"Top Brokers Help\"\n    },\n    {\n      \"email\": \"GPS_DWH_Developer@loomissayles.com\",\n      \"name\": \"gps_dwh_developer\",\n      \"uid\": \"GPS_DWH_Developer\"\n    },\n    {\n      \"email\": \"Architecture_Team_Alerts@LoomisSayles.com\",\n      \"name\": \"architectureteamalerts\",\n      \"uid\": \"Architecture Team Alerts\"\n    },\n    {\n      \"email\": \"io_daily_report@loomissayles.com\",\n      \"name\": \"io_daily_report\",\n      \"uid\": \"io_daily_report\"\n    },\n    {\n      \"email\": \"InSiteUsers@loomissayles.com\",\n      \"name\": \"insiteusers\",\n      \"uid\": \"InSiteUsers\"\n    },\n    {\n      \"email\": \"Loomis_Sayles_Operations@loomissayles.com\",\n      \"name\": \"loomissaylesoperations\",\n      \"uid\": \"Loomis Sayles Operations\"\n    },\n    {\n      \"email\": \"SametimeTechnologyAll@loomissayles.com\",\n      \"name\": \"sametimetechnologyall\",\n      \"uid\": \"Sametime Technology All\"\n    },\n    {\n      \"email\": \"LoomisSaylesTechnologyAllSametime@loomissayles.com\",\n      \"name\": \"loomissaylestechnologyallsametime\",\n      \"uid\": \"Loomis Sayles Technology All Sametime\"\n    },\n    {\n      \"email\": \"STTestgroup@loomissayles.com\",\n      \"name\": \"sttestgroup\",\n      \"uid\": \"ST Test group\"\n    },\n    {\n      \"email\": \"analyticsusers@loomissayles.com\",\n      \"name\": \"analyticsusers\",\n      \"uid\": \"Analytics Users\"\n    },\n    {\n      \"email\": \"Loomis_Sayles_Technology_All@loomissayles.com\",\n      \"name\": \"loomissaylestechnologyall\",\n      \"uid\": \"Loomis Sayles Technology All\"\n    },\n    {\n      \"email\": \"EmergencyNotification-Boston@loomissayles.com\",\n      \"name\": \"emergencynotification-boston\",\n      \"uid\": \"EmergencyNotification - Boston\"\n    },\n    {\n      \"email\": \"SametimeBostonAll@LoomisSayles.com\",\n      \"name\": \"sametimebostonall\",\n      \"uid\": \"Sametime Boston All\"\n    },\n    {\n      \"email\": \"SametimeBoston@LoomisSayles.com\",\n      \"name\": \"sametimeboston\",\n      \"uid\": \"Sametime Boston\"\n    },\n    {\n      \"email\": \"Daily_InSite@loomissayles.com\",\n      \"name\": \"dailyinsite\",\n      \"uid\": \"Daily InSite\"\n    },\n    {\n      \"email\": \"FuturesOptimizerGroup@loomissayles.com\",\n      \"name\": \"futuresoptimizergroup\",\n      \"uid\": \"FuturesOptimizerGroup\"\n    },\n    {\n      \"email\": \"LSTA@loomissayles.com\",\n      \"name\": \"lsta\",\n      \"uid\": \"LSTA\"\n    },\n    {\n      \"email\": null,\n      \"name\": \"tempmsbos2-admin\",\n      \"uid\": \"TempMSBos2-Admin\"\n    }\n  ],\n  \"last_name\": \"Borsa\",\n  \"location\": \"Boston\",\n  \"username\": \"eborsa\"\n}",
+      "headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "*",
+        "access-control-expose-headers": "",
+        "cache-control": "max-age=0, private, must-revalidate",
+        "content-length": "2588",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Sun, 22 Sep 2024 14:36:31 GMT",
+        "server": "Cowboy",
+        "x-request-id": "hpu2qji9nhu6k0piobels1cs29qrullu"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]
